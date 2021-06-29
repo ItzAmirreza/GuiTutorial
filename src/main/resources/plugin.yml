@@ -1,0 +1,9 @@
+name: GuiTutorial
+version: ${project.version}
+main: me.deadlight.guitutorial.GuiTutorial
+api-version: 1.17
+authors: [ Dead_Light ]
+description: gui tutorial
+commands:
+  chest:
+    description: test
